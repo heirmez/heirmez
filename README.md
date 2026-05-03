@@ -105,6 +105,14 @@ I'm a **full-stack developer** who turns ideas into clean, reliable web products
 
 ---
 
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heirmez&theme=tokyo-night&hide_border=true&area=true&custom_title=Commit%20Activity%20%E2%80%94%20Last%2012%20Months" alt="activity graph"/>
+</p>
+
+---
+
 ## Contribution Snake
 
 <p align="center">
