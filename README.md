@@ -88,11 +88,26 @@ I'm a **full-stack developer** who turns ideas into clean, reliable web products
 
 ---
 
+## By the Numbers
+
+<table>
+  <tr>
+    <td align="center" width="33%"><b>1,143</b><br/><sub>contributions, last 12 months</sub></td>
+    <td align="center" width="33%"><b>15</b><br/><sub>active repositories</sub></td>
+    <td align="center" width="33%"><b>~500</b><br/><sub>commits in a peak month</sub></td>
+  </tr>
+</table>
+
+> The dynamic stats card below shows public-only numbers because the public widget deployment can't read private repos. Most of my work lives in private repos (Kalmanas, Zebalabs CRM, BigBranding, ZodiacSignals, Trade-Edge), so the **1,143** figure is the real picture.
+
+---
+
 ## GitHub Stats
 
-<!-- Note: canonical github-readme-stats.vercel.app is frequently rate-limited (returns 503).   -->
-<!-- Using the eight-theta community mirror. To switch back, replace the host below.            -->
-<!-- Long-term reliable option: fork anuraghazra/github-readme-stats and self-host on Vercel.   -->
+<!-- Note: canonical github-readme-stats.vercel.app is frequently rate-limited (returns 503).         -->
+<!-- Using the eight-theta community mirror. To switch back, replace the host below.                  -->
+<!-- For accurate private-repo stats, fork anuraghazra/github-readme-stats and self-host on your own  -->
+<!-- Vercel with a personal access token in the GH_TOKEN env var. Then point the URLs at your domain. -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=heirmez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=450" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heirmez&layout=compact&theme=tokyonight&hide_border=true&card_width=350" />
