@@ -98,12 +98,13 @@ I'm a **full-stack developer** who turns ideas into clean, reliable web products
   </tr>
 </table>
 
-<p align="center"><b>Contribution Heatmap &mdash; 1,143 contributions in the last year</b></p>
 <p align="center">
-  <img src="https://ghchart.rshah.org/22D3EE/heirmez" alt="heirmez's GitHub contribution chart"/>
+  <a href="https://github.com/heirmez">
+    <img src="https://img.shields.io/badge/See%20full%20activity%20on%20GitHub-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="full activity on GitHub"/>
+  </a>
 </p>
 
-> The cards below show public-only data because the public widget deployment can't read private repos. Most of my work lives in private projects (Kalmanas, Zebalabs CRM, BigBranding, ZodiacSignals, Trade-Edge) &mdash; the heatmap above is the real picture.
+> The widgets below show **public-only** activity (84 commits in this README's stats card). My real footprint &mdash; **1,143 contributions, last 12 months** &mdash; lives mostly in private projects: Kalmanas (a Hindi-i18n Vite frontend with PWA), Zebalabs CRM (TypeScript lab-equipment sales pipeline), BigBranding (multi-account task system), ZodiacSignals (147-page astrology site), and Trade-Edge (Svelte trading tool).
 
 ---
 
