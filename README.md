@@ -10,7 +10,7 @@
 <!-- ║                       Animated Header Banner                      ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Aswin%20Ashok&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20JavaScript%20%E2%80%A2%20TypeScript&descAlignY=58&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Aswin%20Ashok&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Nerd%20%C3%97%20Growth%20Marketer%20%C3%97%20Builder&descAlignY=58&descSize=18" alt="header"/>
 </p>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
@@ -18,7 +18,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 <p align="center">
   <a href="https://github.com/heirmez">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%F0%9F%9A%80;JavaScript+%7C+TypeScript+%7C+React+%7C+Node;I+turn+ideas+into+shipped+products+%E2%9A%A1;Always+learning%2C+always+building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=AI+Nerd+%C3%97+Growth+Marketer+%C3%97+Builder;0+%E2%86%92+400K+Instagram+followers+%283+yrs%2C+organic%29;6%2B+years+scaling+businesses+with+SEO%2C+PPC+%26+code;I+build+the+systems+I%27d+otherwise+have+to+buy+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,13 +35,14 @@
 
 ## About Me
 
-I'm a **full-stack developer** who turns ideas into clean, reliable web products. I work end-to-end, designing data models, building APIs, and crafting interfaces that feel fast and intentional.
+I'm a **growth marketer who builds the systems**. 6+ years scaling businesses with SEO, PPC, content & data — now writing the code so I'm not waiting on a dev queue.
 
-- **Currently building** &nbsp;&middot;&nbsp; a full-stack CRM platform
-- **Currently learning** &nbsp;&middot;&nbsp; advanced TypeScript patterns and system design
-- **Ask me about** &nbsp;&middot;&nbsp; React, Node.js, MongoDB, building from zero to one
-- **Reach me at** &nbsp;&middot;&nbsp; aswinashok370@gmail.com
-- **Fun fact** &nbsp;&middot;&nbsp; I prefer fixing the root cause over patching the symptom
+- **Currently** &nbsp;&middot;&nbsp; Founder @ **Kalmanas** · Talent Manager @ **Celestiace Media** · shipping the **Zebalabs CRM**
+- **Track record** &nbsp;&middot;&nbsp; **0 → 400K Instagram followers in 3 years (fully organic)** · Google Ads, Microsoft Ads, LinkedIn Ads at scale
+- **The bet** &nbsp;&middot;&nbsp; AI-native marketers who can also build will out-execute teams of 5
+- **Background** &nbsp;&middot;&nbsp; MBA Marketing (Kannur University) · BSc Physics · Kochi, Kerala, India
+- **Reach me at** &nbsp;&middot;&nbsp; itsaswinashok@gmail.com
+- **Fun fact** &nbsp;&middot;&nbsp; I prefer fixing the root cause over patching the symptom — applies to funnels too
 
 ---
 
@@ -96,6 +97,97 @@ I'm a **full-stack developer** who turns ideas into clean, reliable web products
 
 ---
 
+## Marketing Stack
+
+<table>
+  <tr>
+    <td><b>SEO &amp; Analytics</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Google%20Analytics-F9AB00?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+      <img src="https://img.shields.io/badge/-SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Ahrefs-1F66DA?style=for-the-badge&logo=ahrefs&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Paid Ads</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Microsoft%20Ads-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
+      <img src="https://img.shields.io/badge/-LinkedIn%20Ads-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>CRM &amp; Email</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black" />
+      <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Design</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+      <img src="https://img.shields.io/badge/-After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-A%2FB%20Testing-2E2E2E?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-CRO-2E2E2E?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-Marketing%20Automation-2E2E2E?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-Lead%20Generation-2E2E2E?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-Brand%20Positioning-2E2E2E?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Track Record
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h2>0 → 400K</h2>
+      <sub>Instagram followers <br/>3 years &middot; fully organic</sub>
+    </td>
+    <td align="center" width="33%">
+      <h2>6+ years</h2>
+      <sub>scaling businesses across<br/>SEO, PPC, content &amp; code</sub>
+    </td>
+    <td align="center" width="33%">
+      <h2>3 countries</h2>
+      <sub>campaigns shipped from<br/>Kochi to Kerala to Hyderabad</sub>
+    </td>
+  </tr>
+</table>
+
+**Currently:**
+- **Founder** @ **Kalmanas** — building from idea to product *(Mar 2026 — Present)*
+- **Talent Manager** @ **Celestiace Media** — influencer partnerships across Instagram &amp; YouTube *(Oct 2025 — Present)*
+
+**Previously:**
+- **Digital Marketing Manager** @ Arabian Software *(Jan — Dec 2025)*
+- **Digital Marketing Analyst** @ Amphenol *(2022 — 2023)*
+- **Digital Marketing Executive** @ Digitalbuddha Info Solutions *(2020 — 2022)*
+
+---
+
+## Certifications &amp; Education
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-MBA%20Marketing%20%E2%80%A2%20Kannur%20Univ.-1E40AF?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SEO%20Specialization%20%E2%80%A2%20UC%20Davis-005F86?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Analytics%20Advanced-F9AB00?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HubSpot%20SEO-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Digital%20Marketing%20Fundamentals-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+---
+
 ## By the Numbers
 
 <table>
@@ -146,7 +238,7 @@ I'm a **full-stack developer** who turns ideas into clean, reliable web products
 ## Connect With Me
 
 <p align="center">
-  <a href="mailto:aswinashok370@gmail.com">
+  <a href="mailto:itsaswinashok@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
   &nbsp;
