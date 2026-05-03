@@ -98,7 +98,12 @@ I'm a **full-stack developer** who turns ideas into clean, reliable web products
   </tr>
 </table>
 
-> The dynamic stats card below shows public-only numbers because the public widget deployment can't read private repos. Most of my work lives in private repos (Kalmanas, Zebalabs CRM, BigBranding, ZodiacSignals, Trade-Edge), so the **1,143** figure is the real picture.
+<p align="center"><b>Contribution Heatmap &mdash; 1,143 contributions in the last year</b></p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/22D3EE/heirmez" alt="heirmez's GitHub contribution chart"/>
+</p>
+
+> The cards below show public-only data because the public widget deployment can't read private repos. Most of my work lives in private projects (Kalmanas, Zebalabs CRM, BigBranding, ZodiacSignals, Trade-Edge) &mdash; the heatmap above is the real picture.
 
 ---
 
