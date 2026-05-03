@@ -98,25 +98,15 @@ I'm a **full-stack developer** who turns ideas into clean, reliable web products
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/heirmez">
-    <img src="https://img.shields.io/badge/See%20full%20activity%20on%20GitHub-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="full activity on GitHub"/>
-  </a>
-</p>
-
-> The widgets below show **public-only** activity (84 commits in this README's stats card). My real footprint &mdash; **1,143 contributions, last 12 months** &mdash; lives mostly in private projects: Kalmanas (a Hindi-i18n Vite frontend with PWA), Zebalabs CRM (TypeScript lab-equipment sales pipeline), BigBranding (multi-account task system), ZodiacSignals (147-page astrology site), and Trade-Edge (Svelte trading tool).
-
 ---
 
 ## GitHub Stats
 
-<!-- Note: canonical github-readme-stats.vercel.app is frequently rate-limited (returns 503).         -->
-<!-- Using the eight-theta community mirror. To switch back, replace the host below.                  -->
-<!-- For accurate private-repo stats, fork anuraghazra/github-readme-stats and self-host on your own  -->
-<!-- Vercel with a personal access token in the GH_TOKEN env var. Then point the URLs at your domain. -->
+<!-- Stats served from a self-hosted github-readme-stats deployment (heirmez-stats.vercel.app)  -->
+<!-- with a PAT, so count_private=true returns real lifetime commit numbers including private. -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=heirmez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=450" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heirmez&layout=compact&theme=tokyonight&hide_border=true&card_width=350" />
+  <img height="180em" src="https://heirmez-stats.vercel.app/api?username=heirmez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=450" />
+  <img height="180em" src="https://heirmez-stats.vercel.app/api/top-langs/?username=heirmez&layout=compact&theme=tokyonight&hide_border=true&card_width=350" />
 </p>
 
 <p align="center">
