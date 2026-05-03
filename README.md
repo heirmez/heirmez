@@ -10,7 +10,7 @@
 <!-- ║                       Animated Header Banner                      ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Aswin%20Ashok&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Nerd%20%C3%97%20Growth%20Marketer%20%C3%97%20Builder&descAlignY=58&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Aswin%20Ashok&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Nerd%20%C3%97%20Growth%20Marketer%20%C3%97%20Builder&descAlignY=58&descSize=18&_v=3" alt="header"/>
 </p>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
@@ -18,7 +18,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 <p align="center">
   <a href="https://github.com/heirmez">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=AI+Nerd+%C3%97+Growth+Marketer+%C3%97+Builder;0+%E2%86%92+400K+Instagram+followers+%283+yrs%2C+organic%29;6%2B+years+scaling+businesses+with+SEO%2C+PPC+%26+code;I+build+the+systems+I%27d+otherwise+have+to+buy+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=AI+Nerd+%C3%97+Growth+Marketer+%C3%97+Builder;0+%E2%86%92+400K+Instagram+followers+%283+yrs%2C+organic%29;6%2B+years+scaling+businesses+with+SEO%2C+PPC+%26+code;I+build+the+systems+I%27d+otherwise+have+to+buy+%E2%9A%A1&_v=3" alt="Typing SVG" />
   </a>
 </p>
 
