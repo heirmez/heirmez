@@ -7,11 +7,16 @@
 </p>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       Animated Header Banner                      ║ -->
+<!-- ║   Banner: gradient wave decoration only (capsule-render's        ║ -->
+<!-- ║   built-in fadeIn animation hides text on camo's static cache);   ║ -->
+<!-- ║   the actual heading is rendered as native markdown below.        ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Aswin%20Ashok&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20Nerd%20%C3%97%20Growth%20Marketer%20%C3%97%20Builder&descAlignY=58&descSize=18&_v=4" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=140&section=header&_v=4" alt="header"/>
 </p>
+
+<h1 align="center">Aswin Ashok</h1>
+<h3 align="center"><i>AI Nerd × Growth Marketer × Builder</i></h3>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                       Typing Animation                            ║ -->
