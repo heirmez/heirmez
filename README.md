@@ -35,7 +35,7 @@
 
 ## About Me
 
-I'm a **full-stack developer** who turns ideas into clean, reliable web products. I work end-to-end — designing data models, building APIs, and crafting interfaces that feel fast and intentional.
+I'm a **full-stack developer** who turns ideas into clean, reliable web products. I work end-to-end, designing data models, building APIs, and crafting interfaces that feel fast and intentional.
 
 - **Currently building** &nbsp;&middot;&nbsp; a full-stack CRM platform
 - **Currently learning** &nbsp;&middot;&nbsp; advanced TypeScript patterns and system design
