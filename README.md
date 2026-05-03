@@ -113,8 +113,8 @@ I'm a **full-stack developer** who turns ideas into clean, reliable web products
 <!-- Stats served from a self-hosted github-readme-stats deployment (heirmez-stats.vercel.app)  -->
 <!-- with a PAT, so count_private=true returns real lifetime commit numbers including private. -->
 <p align="center">
-  <img height="180em" src="https://heirmez-stats.vercel.app/api?username=heirmez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=450" />
-  <img height="180em" src="https://heirmez-stats.vercel.app/api/top-langs/?username=heirmez&layout=compact&theme=tokyonight&hide_border=true&card_width=350" />
+  <img height="180em" src="https://heirmez-stats.vercel.app/api?username=heirmez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=450&v=2" />
+  <img height="180em" src="https://heirmez-stats.vercel.app/api/top-langs/?username=heirmez&layout=compact&theme=tokyonight&hide_border=true&card_width=350&v=2" />
 </p>
 
 <p align="center">
